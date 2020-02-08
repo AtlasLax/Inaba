@@ -1,0 +1,4 @@
+rootProject.name = 'inaba'
+
+include 'inaba'
+
